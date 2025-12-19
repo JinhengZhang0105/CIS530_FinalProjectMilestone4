@@ -1,0 +1,134 @@
+{
+  "image_id": "1",
+  "caption": "A busy city intersection on a rainy evening, with crowds holding umbrellas, yellow taxis and cars passing by, and bright billboards lighting up the wet streets.",
+  "final_prompt": "Rain-soaked city crossroads in the early evening, dense groups of pedestrians under umbrellas crossing streets filled with moving yellow cabs and cars, bright digital advertisements and billboards casting colorful glows on slick asphalt, urban skyline faintly visible behind, wet surfaces shimmering from streetlights, photo-realistic style with dynamic lighting and a lively atmosphere.",
+  "final_image": "runs/city_complex_run1/1/images/1_iter01_sample01.png",
+  "final_clip_score": 0.85498046875,
+  "iterations_run": 4,
+  "logs": [
+    {
+      "iter": 1,
+      "prompts": [
+        "A bustling urban intersection at dusk during a steady rain, crowds of people tightly packed and holding colorful umbrellas, yellow taxis and various cars driving through wet reflective streets, large vibrant electronic billboards illuminating the scene with neon lights, high-rise buildings in the background, glistening pavement reflecting city lights, cinematic wide-angle view, realistic style.",
+        "Rain-soaked city crossroads in the early evening, dense groups of pedestrians under umbrellas crossing streets filled with moving yellow cabs and cars, bright digital advertisements and billboards casting colorful glows on slick asphalt, urban skyline faintly visible behind, wet surfaces shimmering from streetlights, photo-realistic style with dynamic lighting and a lively atmosphere.",
+        "Evening rain falling on a crowded metropolitan intersection, people holding umbrellas in various colors, numerous yellow taxis and vehicles navigating through shiny wet roads, towering illuminated billboards radiating bright light across the scene, reflections visible on the pavement, modern city buildings framing the background, detailed realistic rendering with moody, vibrant lighting."
+      ],
+      "prompt_scores": [
+        0.30615234375,
+        0.317626953125,
+        0.308837890625
+      ],
+      "chosen_prompt_idx": 1,
+      "chosen_prompt": "Rain-soaked city crossroads in the early evening, dense groups of pedestrians under umbrellas crossing streets filled with moving yellow cabs and cars, bright digital advertisements and billboards casting colorful glows on slick asphalt, urban skyline faintly visible behind, wet surfaces shimmering from streetlights, photo-realistic style with dynamic lighting and a lively atmosphere.",
+      "image_paths": [
+        "runs/city_complex_run1/1/images/1_iter01_sample01.png",
+        "runs/city_complex_run1/1/images/1_iter01_sample02.png",
+        "runs/city_complex_run1/1/images/1_iter01_sample03.png",
+        "runs/city_complex_run1/1/images/1_iter01_sample04.png"
+      ],
+      "image_scores": [
+        0.85498046875,
+        0.845703125,
+        0.8359375,
+        0.82666015625
+      ],
+      "iter_best_idx": 0,
+      "iter_best_score": 0.85498046875,
+      "global_best_score": 0.85498046875,
+      "improved": true
+    },
+    {
+      "iter": 2,
+      "prompts": [
+        "Rain-soaked city crossroads on a rainy evening, dense groups of pedestrians holding umbrellas crossing streets filled with moving yellow taxis and cars, bright digital advertisements and billboards casting colorful glows on slick asphalt, urban skyline faintly visible behind, wet surfaces shimmering from streetlights, photo-realistic style with dynamic lighting and a lively atmosphere.",
+        "Rain-soaked busy city intersection in the early evening, crowds holding umbrellas crossing streets filled with moving yellow taxis and cars, bright billboards and digital advertisements illuminating wet streets with colorful glows, urban skyline faintly visible in the background, wet surfaces reflecting streetlights, photo-realistic style with dynamic lighting and a vibrant atmosphere.",
+        "Rainy city intersection in the early evening, bustling crowds holding umbrellas crossing streets busy with yellow taxis and cars passing by, bright billboards and digital advertisements lighting up the wet, reflective streets, urban skyline dimly visible beyond, wet pavement shimmering under streetlights, photo-realistic style with dynamic lighting and lively urban energy."
+      ],
+      "prompt_scores": [
+        0.316162109375,
+        0.309326171875,
+        0.302001953125
+      ],
+      "chosen_prompt_idx": 0,
+      "chosen_prompt": "Rain-soaked city crossroads on a rainy evening, dense groups of pedestrians holding umbrellas crossing streets filled with moving yellow taxis and cars, bright digital advertisements and billboards casting colorful glows on slick asphalt, urban skyline faintly visible behind, wet surfaces shimmering from streetlights, photo-realistic style with dynamic lighting and a lively atmosphere.",
+      "image_paths": [
+        "runs/city_complex_run1/1/images/1_iter02_sample01.png",
+        "runs/city_complex_run1/1/images/1_iter02_sample02.png",
+        "runs/city_complex_run1/1/images/1_iter02_sample03.png",
+        "runs/city_complex_run1/1/images/1_iter02_sample04.png"
+      ],
+      "image_scores": [
+        0.8095703125,
+        0.82470703125,
+        0.8125,
+        0.8291015625
+      ],
+      "iter_best_idx": 3,
+      "iter_best_score": 0.8291015625,
+      "global_best_score": 0.85498046875,
+      "improved": false
+    },
+    {
+      "iter": 3,
+      "prompts": [
+        "Rain-soaked city crossroads on a rainy evening, dense groups of pedestrians holding umbrellas crossing streets filled with moving yellow taxis and cars, bright digital advertisements and billboards casting colorful glows on slick, wet asphalt, urban skyline faintly visible behind, wet surfaces shimmering from streetlights, photo-realistic style with dynamic lighting and a lively atmosphere.",
+        "Rain-soaked busy city intersection in the early evening, crowds of pedestrians holding umbrellas crossing streets filled with yellow taxis and cars passing by, bright digital billboards and advertisements lighting up wet streets with colorful reflections, urban skyline faintly visible in the background, wet surfaces shimmering from streetlights, photo-realistic style with dynamic lighting and a lively atmosphere.",
+        "Rain-soaked city intersection on a rainy evening, dense crowds holding umbrellas crossing streets busy with yellow taxis and cars passing by, bright billboards and digital advertisements illuminating the wet streets with vibrant glows, urban skyline faintly visible in the distance, wet surfaces reflecting streetlights, photo-realistic style with dynamic lighting and a lively atmosphere."
+      ],
+      "prompt_scores": [
+        0.31787109375,
+        0.31640625,
+        0.308837890625
+      ],
+      "chosen_prompt_idx": 0,
+      "chosen_prompt": "Rain-soaked city crossroads on a rainy evening, dense groups of pedestrians holding umbrellas crossing streets filled with moving yellow taxis and cars, bright digital advertisements and billboards casting colorful glows on slick, wet asphalt, urban skyline faintly visible behind, wet surfaces shimmering from streetlights, photo-realistic style with dynamic lighting and a lively atmosphere.",
+      "image_paths": [
+        "runs/city_complex_run1/1/images/1_iter03_sample01.png",
+        "runs/city_complex_run1/1/images/1_iter03_sample02.png",
+        "runs/city_complex_run1/1/images/1_iter03_sample03.png",
+        "runs/city_complex_run1/1/images/1_iter03_sample04.png"
+      ],
+      "image_scores": [
+        0.7470703125,
+        0.80322265625,
+        0.8359375,
+        0.78466796875
+      ],
+      "iter_best_idx": 2,
+      "iter_best_score": 0.8359375,
+      "global_best_score": 0.85498046875,
+      "improved": false
+    },
+    {
+      "iter": 4,
+      "prompts": [
+        "Rain-soaked city intersection on a rainy evening, dense crowds of pedestrians holding umbrellas crossing streets filled with moving yellow taxis and cars, bright digital billboards and advertisements casting colorful glows on wet, reflective asphalt, urban skyline faintly visible behind, wet surfaces shimmering from streetlights, photorealistic style with dynamic lighting and a lively atmosphere.",
+        "Busy rain-soaked city intersection in the early evening, groups of pedestrians holding umbrellas crossing streets filled with moving yellow taxis and cars, bright illuminated billboards lighting up the wet streets with colorful glows, urban skyline visible in the background, wet pavement reflecting lights from streetlamps, photorealistic style with dynamic lighting and bustling ambiance.",
+        "Rainy city intersection at dusk with crowds holding umbrellas crossing busy streets filled with yellow taxis and cars, bright billboards and digital advertisements illuminating the wet, shiny pavement, urban skyline softly visible in the distance, wet surfaces reflecting vibrant lights from streetlights, photorealistic style emphasizing dynamic lighting and a lively, bustling city atmosphere."
+      ],
+      "prompt_scores": [
+        0.310302734375,
+        0.30712890625,
+        0.29931640625
+      ],
+      "chosen_prompt_idx": 0,
+      "chosen_prompt": "Rain-soaked city intersection on a rainy evening, dense crowds of pedestrians holding umbrellas crossing streets filled with moving yellow taxis and cars, bright digital billboards and advertisements casting colorful glows on wet, reflective asphalt, urban skyline faintly visible behind, wet surfaces shimmering from streetlights, photorealistic style with dynamic lighting and a lively atmosphere.",
+      "image_paths": [
+        "runs/city_complex_run1/1/images/1_iter04_sample01.png",
+        "runs/city_complex_run1/1/images/1_iter04_sample02.png",
+        "runs/city_complex_run1/1/images/1_iter04_sample03.png",
+        "runs/city_complex_run1/1/images/1_iter04_sample04.png"
+      ],
+      "image_scores": [
+        0.8349609375,
+        0.8466796875,
+        0.78759765625,
+        0.8046875
+      ],
+      "iter_best_idx": 1,
+      "iter_best_score": 0.8466796875,
+      "global_best_score": 0.85498046875,
+      "improved": false
+    }
+  ]
+}
