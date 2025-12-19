@@ -1,0 +1,134 @@
+{
+  "image_id": "5",
+  "caption": "A sunny outdoor playground with several children sliding down a wide bright orange slide, surrounded by colorful climbing structures and autumn trees under a clear blue sky.",
+  "final_prompt": "A bright sunny playground featuring several children joyfully sliding down a wide, bright orange slide. Surrounding the slide are colorful climbing structures with ladders and platforms. The scene is framed by autumn trees with vibrant orange and yellow leaves under a clear, cloudless blue sky. Warm, natural lighting highlights the cheerful outdoor setting in a detailed, photorealistic style.",
+  "final_image": "runs/city_complex_run1/5/images/5_iter02_sample02.png",
+  "final_clip_score": 0.83837890625,
+  "iterations_run": 4,
+  "logs": [
+    {
+      "iter": 1,
+      "prompts": [
+        "A vibrant outdoor playground bathed in bright sunlight, featuring several joyful children sliding down a wide, glossy orange slide. Surrounding the slide are colorful climbing frames painted in red, blue, and yellow. The background shows tall autumn trees with golden and red leaves under a clear blue sky. The scene is lively, with natural shadows and a cheerful atmosphere, captured in a realistic style.",
+        "An expansive sunny playground scene with multiple kids happily sliding down a broad, bright orange slide. Around the slide are various multi-colored climbing structures including ladders and platforms. The backdrop is filled with autumn trees showcasing orange and yellow foliage beneath a cloudless blue sky. The lighting is warm and natural, emphasizing the playful outdoor environment in a detailed, photorealistic manner.",
+        "A sunny day at a colorful playground featuring children gleefully descending a wide orange slide. The playground includes vibrant climbing equipment in red, green, and blue hues. Behind, a row of autumn trees with rich orange and yellow leaves stands tall under a crisp, clear blue sky. Soft sunlight casts gentle shadows, creating a warm and inviting atmosphere in a high-resolution, naturalistic style."
+      ],
+      "prompt_scores": [
+        0.3310546875,
+        0.33349609375,
+        0.2607421875
+      ],
+      "chosen_prompt_idx": 1,
+      "chosen_prompt": "An expansive sunny playground scene with multiple kids happily sliding down a broad, bright orange slide. Around the slide are various multi-colored climbing structures including ladders and platforms. The backdrop is filled with autumn trees showcasing orange and yellow foliage beneath a cloudless blue sky. The lighting is warm and natural, emphasizing the playful outdoor environment in a detailed, photorealistic manner.",
+      "image_paths": [
+        "runs/city_complex_run1/5/images/5_iter01_sample01.png",
+        "runs/city_complex_run1/5/images/5_iter01_sample02.png",
+        "runs/city_complex_run1/5/images/5_iter01_sample03.png",
+        "runs/city_complex_run1/5/images/5_iter01_sample04.png"
+      ],
+      "image_scores": [
+        0.8349609375,
+        0.80859375,
+        0.82177734375,
+        0.79296875
+      ],
+      "iter_best_idx": 0,
+      "iter_best_score": 0.8349609375,
+      "global_best_score": 0.8349609375,
+      "improved": true
+    },
+    {
+      "iter": 2,
+      "prompts": [
+        "A bright sunny playground featuring several children joyfully sliding down a wide, bright orange slide. Surrounding the slide are colorful climbing structures with ladders and platforms. The scene is framed by autumn trees with vibrant orange and yellow leaves under a clear, cloudless blue sky. Warm, natural lighting highlights the cheerful outdoor setting in a detailed, photorealistic style.",
+        "A sunny outdoor playground scene with multiple kids sliding down a broad, vivid orange slide. Around the slide are various colorful climbing structures including ladders and platforms. The background is filled with autumn trees displaying rich orange and yellow foliage beneath a crisp, clear blue sky. The warm daylight enhances the playful, photorealistic environment.",
+        "A wide, bright orange slide in a sunny playground with several children sliding down happily. Colorful climbing structures with ladders and platforms surround the slide. Autumn trees with orange and yellow leaves frame the scene under a clear blue sky. The warm, natural sunlight creates a detailed and photorealistic depiction of the cheerful outdoor play area."
+      ],
+      "prompt_scores": [
+        0.33837890625,
+        0.335693359375,
+        0.328125
+      ],
+      "chosen_prompt_idx": 0,
+      "chosen_prompt": "A bright sunny playground featuring several children joyfully sliding down a wide, bright orange slide. Surrounding the slide are colorful climbing structures with ladders and platforms. The scene is framed by autumn trees with vibrant orange and yellow leaves under a clear, cloudless blue sky. Warm, natural lighting highlights the cheerful outdoor setting in a detailed, photorealistic style.",
+      "image_paths": [
+        "runs/city_complex_run1/5/images/5_iter02_sample01.png",
+        "runs/city_complex_run1/5/images/5_iter02_sample02.png",
+        "runs/city_complex_run1/5/images/5_iter02_sample03.png",
+        "runs/city_complex_run1/5/images/5_iter02_sample04.png"
+      ],
+      "image_scores": [
+        0.76611328125,
+        0.83837890625,
+        0.73828125,
+        0.73291015625
+      ],
+      "iter_best_idx": 1,
+      "iter_best_score": 0.83837890625,
+      "global_best_score": 0.83837890625,
+      "improved": true
+    },
+    {
+      "iter": 3,
+      "prompts": [
+        "A bright sunny playground featuring several children joyfully sliding down a wide, bright orange slide. Surrounding the slide are colorful climbing structures with ladders and platforms, scattered naturally around. The scene is framed by autumn trees with vibrant orange and yellow leaves gently swaying under a clear, cloudless blue sky. Warm, natural lighting highlights the cheerful outdoor setting in a detailed, photorealistic style.",
+        "A bright sunny playground with several children happily sliding down a wide, bright orange slide. Colorful climbing structures with various platforms and ladders surround the slide, set among autumn trees displaying vibrant orange and yellow leaves. The background shows a clear, vivid blue sky without clouds. Warm sunlight creates a lively, detailed, photorealistic outdoor scene.",
+        "A sunny outdoor playground featuring several children sliding down a wide, bright orange slide with smiles. Around the slide are colorful climbing structures including ladders and platforms, integrated into a landscape of autumn trees with richly colored orange and yellow leaves. Overhead, a clear, deep blue sky enhances the warm, natural lighting in this detailed, photorealistic scene."
+      ],
+      "prompt_scores": [
+        0.260009765625,
+        0.32958984375,
+        0.34619140625
+      ],
+      "chosen_prompt_idx": 2,
+      "chosen_prompt": "A sunny outdoor playground featuring several children sliding down a wide, bright orange slide with smiles. Around the slide are colorful climbing structures including ladders and platforms, integrated into a landscape of autumn trees with richly colored orange and yellow leaves. Overhead, a clear, deep blue sky enhances the warm, natural lighting in this detailed, photorealistic scene.",
+      "image_paths": [
+        "runs/city_complex_run1/5/images/5_iter03_sample01.png",
+        "runs/city_complex_run1/5/images/5_iter03_sample02.png",
+        "runs/city_complex_run1/5/images/5_iter03_sample03.png",
+        "runs/city_complex_run1/5/images/5_iter03_sample04.png"
+      ],
+      "image_scores": [
+        0.802734375,
+        0.8076171875,
+        0.80810546875,
+        0.7275390625
+      ],
+      "iter_best_idx": 2,
+      "iter_best_score": 0.80810546875,
+      "global_best_score": 0.83837890625,
+      "improved": false
+    },
+    {
+      "iter": 4,
+      "prompts": [
+        "A bright sunny outdoor playground featuring several children happily sliding down a wide, bright orange slide. The slide is surrounded by colorful climbing structures with ladders and platforms. The scene is framed by autumn trees with vibrant orange and yellow leaves under a clear, cloudless blue sky. Warm, natural sunlight enhances the cheerful, detailed photorealistic setting.",
+        "A sunny outdoor playground with several children sliding down a wide, bright orange slide with joyful expressions. Surrounding the slide are colorful climbing structures including ladders and platforms. Autumn trees with vivid orange and yellow foliage frame the scene beneath a clear, bright blue sky. The warm, natural light highlights the detailed, photorealistic environment.",
+        "A vibrant sunny playground scene showing several children sliding down a wide, bright orange slide outdoors. The slide is encircled by colorful climbing structures featuring ladders and platforms. Around the playground, autumn trees with rich orange and yellow leaves stand tall under a clear, blue sky. The warm, natural lighting captures a detailed, photorealistic and cheerful atmosphere."
+      ],
+      "prompt_scores": [
+        0.334228515625,
+        0.345458984375,
+        0.339111328125
+      ],
+      "chosen_prompt_idx": 1,
+      "chosen_prompt": "A sunny outdoor playground with several children sliding down a wide, bright orange slide with joyful expressions. Surrounding the slide are colorful climbing structures including ladders and platforms. Autumn trees with vivid orange and yellow foliage frame the scene beneath a clear, bright blue sky. The warm, natural light highlights the detailed, photorealistic environment.",
+      "image_paths": [
+        "runs/city_complex_run1/5/images/5_iter04_sample01.png",
+        "runs/city_complex_run1/5/images/5_iter04_sample02.png",
+        "runs/city_complex_run1/5/images/5_iter04_sample03.png",
+        "runs/city_complex_run1/5/images/5_iter04_sample04.png"
+      ],
+      "image_scores": [
+        0.77783203125,
+        0.8349609375,
+        0.8017578125,
+        0.81494140625
+      ],
+      "iter_best_idx": 1,
+      "iter_best_score": 0.8349609375,
+      "global_best_score": 0.83837890625,
+      "improved": false
+    }
+  ]
+}
