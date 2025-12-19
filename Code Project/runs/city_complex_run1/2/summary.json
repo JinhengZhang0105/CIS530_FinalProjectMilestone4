@@ -1,0 +1,134 @@
+{
+  "image_id": "2",
+  "caption": "A neon-lit city street at night with wet reflective pavement, scaffolding and storefronts on the left, steam rising near the center, and people walking along the sidewalk.",
+  "final_prompt": "Night city street bathed in neon light, showing shiny wet pavement reflecting bright neon colors. Scaffolding and multiple storefronts with glowing neon signs line the entire left side of the street. Steam softly billows near the center, adding to the moody, urban ambiance as people walk along the sidewalk in cool-weather clothing. The scene captures depth and lively street activity, depicted in a realistic and atmospheric style.",
+  "final_image": "runs/city_complex_run1/2/images/2_iter04_sample04.png",
+  "final_clip_score": 0.89111328125,
+  "iterations_run": 4,
+  "logs": [
+    {
+      "iter": 1,
+      "prompts": [
+        "A vibrant neon-lit urban street at night, featuring wet, reflective pavement that mirrors colorful signs. On the left side, scaffolding and illuminated storefronts line the sidewalk. Wisps of steam rise near the street center, adding atmosphere. Several pedestrians walk along the bustling sidewalk under glowing streetlights, capturing a lively city night scene with a moody, cinematic style.",
+        "Nighttime city street scene bathed in neon lights with rain-soaked pavement glistening under vibrant reflections. Left side showcases scaffolding and diverse storefronts with bright signage. Steam gently rises from a vent near the middle of the street, while people stroll along the sidewalk, dressed for cool weather. The composition emphasizes depth and urban energy, rendered in a realistic, atmospheric style.",
+        "A dynamic city street at night illuminated by colorful neon signs, with wet pavement reflecting vibrant lights. On the left, scaffolding supports building renovations beside lively storefronts. Steam rises in the street\u2019s center, creating a misty effect. Pedestrians walk along the sidewalk, dressed casually, contributing to the urban nighttime ambiance. The scene has a detailed, photorealistic look with strong contrasts and rich colors."
+      ],
+      "prompt_scores": [
+        0.28564453125,
+        0.307861328125,
+        0.251953125
+      ],
+      "chosen_prompt_idx": 1,
+      "chosen_prompt": "Nighttime city street scene bathed in neon lights with rain-soaked pavement glistening under vibrant reflections. Left side showcases scaffolding and diverse storefronts with bright signage. Steam gently rises from a vent near the middle of the street, while people stroll along the sidewalk, dressed for cool weather. The composition emphasizes depth and urban energy, rendered in a realistic, atmospheric style.",
+      "image_paths": [
+        "runs/city_complex_run1/2/images/2_iter01_sample01.png",
+        "runs/city_complex_run1/2/images/2_iter01_sample02.png",
+        "runs/city_complex_run1/2/images/2_iter01_sample03.png",
+        "runs/city_complex_run1/2/images/2_iter01_sample04.png"
+      ],
+      "image_scores": [
+        0.77001953125,
+        0.8232421875,
+        0.76220703125,
+        0.81591796875
+      ],
+      "iter_best_idx": 1,
+      "iter_best_score": 0.8232421875,
+      "global_best_score": 0.8232421875,
+      "improved": true
+    },
+    {
+      "iter": 2,
+      "prompts": [
+        "Nighttime city street scene bathed in neon lights with rain-soaked pavement glistening under vibrant reflections. Left side prominently features scaffolding and a row of diverse storefronts with bright signage. Steam rises gently from a vent near the center of the street, while people walk along the sidewalk, dressed for cool weather. The composition emphasizes depth and urban energy, rendered in a realistic, atmospheric style.",
+        "Nighttime city street scene illuminated by neon lights, with wet reflective pavement shining under colorful reflections. The left side displays scaffolding alongside various storefronts with bright neon signs. Steam rises softly near the center, adding to the urban atmosphere, as people walk along the sidewalk dressed for cool weather. The image emphasizes depth and vibrant city life, in a realistic, atmospheric style.",
+        "A nighttime city street scene glowing with neon lights, featuring wet pavement reflecting vibrant colors. Scaffolding and storefronts line the left side distinctly, with bright signage visible. Steam rises near the center of the street, while people casually walk along the sidewalk, dressed for cool weather. The composition highlights depth and urban energy, captured in a realistic and atmospheric style."
+      ],
+      "prompt_scores": [
+        0.26806640625,
+        0.295166015625,
+        0.288330078125
+      ],
+      "chosen_prompt_idx": 1,
+      "chosen_prompt": "Nighttime city street scene illuminated by neon lights, with wet reflective pavement shining under colorful reflections. The left side displays scaffolding alongside various storefronts with bright neon signs. Steam rises softly near the center, adding to the urban atmosphere, as people walk along the sidewalk dressed for cool weather. The image emphasizes depth and vibrant city life, in a realistic, atmospheric style.",
+      "image_paths": [
+        "runs/city_complex_run1/2/images/2_iter02_sample01.png",
+        "runs/city_complex_run1/2/images/2_iter02_sample02.png",
+        "runs/city_complex_run1/2/images/2_iter02_sample03.png",
+        "runs/city_complex_run1/2/images/2_iter02_sample04.png"
+      ],
+      "image_scores": [
+        0.7587890625,
+        0.75048828125,
+        0.76513671875,
+        0.8251953125
+      ],
+      "iter_best_idx": 3,
+      "iter_best_score": 0.8251953125,
+      "global_best_score": 0.8251953125,
+      "improved": true
+    },
+    {
+      "iter": 3,
+      "prompts": [
+        "Nighttime city street scene illuminated by neon lights, with wet reflective pavement shining under colorful reflections. The left side prominently features scaffolding next to various storefronts adorned with bright neon signs. Steam rises gently near the center of the scene, enhancing the urban atmosphere, as people walk along the sidewalk dressed for cool weather. The image emphasizes depth and vibrant city life, in a realistic, atmospheric style.",
+        "Nighttime city street scene lit by vibrant neon lights, showing wet reflective pavement with colorful reflections. Scaffolding and diverse storefronts with glowing neon signs line the left side. Steam softly rises near the center, contributing to the moody urban ambiance, while people stroll along the sidewalk dressed for cool weather. The composition highlights depth and lively city life, rendered in a realistic, atmospheric style.",
+        "Nighttime city street scene bathed in neon lights, with wet reflective pavement casting vivid reflections. On the left, scaffolding stands alongside multiple storefronts illuminated by bright neon signs. Steam rises subtly near the center, adding to the gritty urban feel, as people walk along the sidewalk in cool weather attire. The image focuses on depth and vibrant city energy, in a realistic, atmospheric style."
+      ],
+      "prompt_scores": [
+        0.2626953125,
+        0.295654296875,
+        0.24755859375
+      ],
+      "chosen_prompt_idx": 1,
+      "chosen_prompt": "Nighttime city street scene lit by vibrant neon lights, showing wet reflective pavement with colorful reflections. Scaffolding and diverse storefronts with glowing neon signs line the left side. Steam softly rises near the center, contributing to the moody urban ambiance, while people stroll along the sidewalk dressed for cool weather. The composition highlights depth and lively city life, rendered in a realistic, atmospheric style.",
+      "image_paths": [
+        "runs/city_complex_run1/2/images/2_iter03_sample01.png",
+        "runs/city_complex_run1/2/images/2_iter03_sample02.png",
+        "runs/city_complex_run1/2/images/2_iter03_sample03.png",
+        "runs/city_complex_run1/2/images/2_iter03_sample04.png"
+      ],
+      "image_scores": [
+        0.7568359375,
+        0.8046875,
+        0.75048828125,
+        0.830078125
+      ],
+      "iter_best_idx": 3,
+      "iter_best_score": 0.830078125,
+      "global_best_score": 0.830078125,
+      "improved": true
+    },
+    {
+      "iter": 4,
+      "prompts": [
+        "Nighttime city street scene illuminated by vibrant neon lights, featuring wet reflective pavement with vivid colorful reflections. Scaffolding and varied storefronts with glowing neon signs run continuously along the left side. Steam rises gently near the center of the street, enhancing the moody urban atmosphere, while people walk along the sidewalk dressed for cool weather. The composition emphasizes depth and bustling city life, rendered in a realistic, atmospheric style.",
+        "Night city street bathed in neon light, showing shiny wet pavement reflecting bright neon colors. Scaffolding and multiple storefronts with glowing neon signs line the entire left side of the street. Steam softly billows near the center, adding to the moody, urban ambiance as people walk along the sidewalk in cool-weather clothing. The scene captures depth and lively street activity, depicted in a realistic and atmospheric style.",
+        "A neon-lit city street at night with wet, reflective pavement casting colorful reflections. Scaffolding and several storefronts featuring glowing neon signs fill the left side of the frame. Steam rises near the center, contributing to the atmospheric urban mood, while people walk along the sidewalk dressed for cool weather. The composition focuses on depth and vibrant city life, portrayed in a realistic, moody style."
+      ],
+      "prompt_scores": [
+        0.25146484375,
+        0.26025390625,
+        0.2392578125
+      ],
+      "chosen_prompt_idx": 1,
+      "chosen_prompt": "Night city street bathed in neon light, showing shiny wet pavement reflecting bright neon colors. Scaffolding and multiple storefronts with glowing neon signs line the entire left side of the street. Steam softly billows near the center, adding to the moody, urban ambiance as people walk along the sidewalk in cool-weather clothing. The scene captures depth and lively street activity, depicted in a realistic and atmospheric style.",
+      "image_paths": [
+        "runs/city_complex_run1/2/images/2_iter04_sample01.png",
+        "runs/city_complex_run1/2/images/2_iter04_sample02.png",
+        "runs/city_complex_run1/2/images/2_iter04_sample03.png",
+        "runs/city_complex_run1/2/images/2_iter04_sample04.png"
+      ],
+      "image_scores": [
+        0.76513671875,
+        0.74365234375,
+        0.76953125,
+        0.89111328125
+      ],
+      "iter_best_idx": 3,
+      "iter_best_score": 0.89111328125,
+      "global_best_score": 0.89111328125,
+      "improved": true
+    }
+  ]
+}
