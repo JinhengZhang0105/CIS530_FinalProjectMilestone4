@@ -1,0 +1,134 @@
+{
+  "image_id": "3",
+  "caption": "A modern airport check-in hall with multiple check-in counters and blue overhead signs, groups of passengers waiting in lines, and travelers walking with luggage across the shiny floor.",
+  "final_prompt": "A wide-angle view of a modern airport check-in hall featuring multiple check-in counters with bright blue overhead signs. Groups of passengers wait patiently in lines, while travelers walk across the shiny, reflective tiled floor dragging luggage. The spacious terminal is well-lit by natural daylight from large windows combined with warm ceiling lights, highlighting the clean and organized interior.",
+  "final_image": "runs/city_complex_run1/3/images/3_iter02_sample04.png",
+  "final_clip_score": 0.82568359375,
+  "iterations_run": 4,
+  "logs": [
+    {
+      "iter": 1,
+      "prompts": [
+        "A spacious modern airport check-in hall with rows of sleek check-in counters topped by bright blue overhead signs. Groups of diverse passengers stand patiently in lines, some holding passports and boarding passes. Travelers walk briskly across a highly polished reflective floor, pulling suitcases behind them. The scene is brightly lit with natural and artificial light, showcasing a clean, contemporary interior with large windows and high ceilings.",
+        "Interior of a bustling contemporary airport terminal featuring multiple check-in desks beneath vivid blue signage. Crowds of travelers, including families and solo passengers, queue orderly while others move along the shiny, reflective floor pulling rolling luggage. The background reveals a modern architectural design with glass panels and soft overhead lights casting gentle shadows, creating an inviting and efficient atmosphere.",
+        "A wide-angle view of a modern airport check-in area characterized by numerous counters with glowing blue signs overhead. Various groups of people wait in orderly lines, some chatting, others focused on their devices, while several passengers walk across the glossy tiled floor dragging bags. The environment is well-lit with a mix of daylight streaming through large windows and warm ceiling lights, emphasizing the spacious and clean terminal interior."
+      ],
+      "prompt_scores": [
+        0.25146484375,
+        0.29931640625,
+        0.31494140625
+      ],
+      "chosen_prompt_idx": 2,
+      "chosen_prompt": "A wide-angle view of a modern airport check-in area characterized by numerous counters with glowing blue signs overhead. Various groups of people wait in orderly lines, some chatting, others focused on their devices, while several passengers walk across the glossy tiled floor dragging bags. The environment is well-lit with a mix of daylight streaming through large windows and warm ceiling lights, emphasizing the spacious and clean terminal interior.",
+      "image_paths": [
+        "runs/city_complex_run1/3/images/3_iter01_sample01.png",
+        "runs/city_complex_run1/3/images/3_iter01_sample02.png",
+        "runs/city_complex_run1/3/images/3_iter01_sample03.png",
+        "runs/city_complex_run1/3/images/3_iter01_sample04.png"
+      ],
+      "image_scores": [
+        0.771484375,
+        0.75,
+        0.7490234375,
+        0.78564453125
+      ],
+      "iter_best_idx": 3,
+      "iter_best_score": 0.78564453125,
+      "global_best_score": 0.78564453125,
+      "improved": true
+    },
+    {
+      "iter": 2,
+      "prompts": [
+        "A wide-angle view of a modern airport check-in hall featuring multiple check-in counters with bright blue overhead signs. Groups of passengers wait patiently in lines, while travelers walk across the shiny, reflective tiled floor dragging luggage. The spacious terminal is well-lit by natural daylight from large windows combined with warm ceiling lights, highlighting the clean and organized interior.",
+        "A wide-angle view of a modern airport check-in hall with numerous counters under prominent blue overhead signs. Groups of passengers line up in orderly queues, some engaged in conversation, others on their devices, as travelers walk briskly with luggage across the polished, shiny floor. The environment is illuminated by daylight streaming through expansive windows and warm ceiling lights, showcasing the spacious and tidy terminal.",
+        "A wide-angle view of a modern airport check-in hall containing multiple check-in counters topped with vivid blue overhead signs. Groups of passengers wait in lines, while travelers move with luggage across a glossy, shiny floor. The bright and spacious terminal is lit by a combination of daylight flooding through large windows and warm ceiling fixtures, emphasizing the clean, modern interior."
+      ],
+      "prompt_scores": [
+        0.31591796875,
+        0.30615234375,
+        0.308837890625
+      ],
+      "chosen_prompt_idx": 0,
+      "chosen_prompt": "A wide-angle view of a modern airport check-in hall featuring multiple check-in counters with bright blue overhead signs. Groups of passengers wait patiently in lines, while travelers walk across the shiny, reflective tiled floor dragging luggage. The spacious terminal is well-lit by natural daylight from large windows combined with warm ceiling lights, highlighting the clean and organized interior.",
+      "image_paths": [
+        "runs/city_complex_run1/3/images/3_iter02_sample01.png",
+        "runs/city_complex_run1/3/images/3_iter02_sample02.png",
+        "runs/city_complex_run1/3/images/3_iter02_sample03.png",
+        "runs/city_complex_run1/3/images/3_iter02_sample04.png"
+      ],
+      "image_scores": [
+        0.76708984375,
+        0.81494140625,
+        0.81396484375,
+        0.82568359375
+      ],
+      "iter_best_idx": 3,
+      "iter_best_score": 0.82568359375,
+      "global_best_score": 0.82568359375,
+      "improved": true
+    },
+    {
+      "iter": 3,
+      "prompts": [
+        "A wide-angle view of a modern airport check-in hall featuring multiple check-in counters with bright blue overhead signs. Groups of passengers wait patiently in orderly lines, while travelers walk across the shiny, reflective tiled floor dragging luggage. The spacious terminal is well-lit by natural daylight from large windows combined with warm ceiling lights, highlighting the clean and organized interior.",
+        "A wide-angle view of a modern airport check-in hall featuring multiple check-in counters with bright blue overhead signs hanging above. Groups of passengers stand in lines, while travelers walk with rolling luggage across the shiny, reflective tiled floor. The spacious terminal is brightly lit by natural daylight streaming through large windows and warm ceiling lights, emphasizing the clean and organized interior.",
+        "A wide-angle view of a modern airport check-in hall with multiple check-in counters under bright blue overhead signs. Groups of passengers wait in queues, while travelers walk briskly across the shiny, reflective tiled floor pulling luggage. The spacious terminal is illuminated by natural daylight from expansive windows combined with warm ceiling lights, showcasing the clean and orderly interior."
+      ],
+      "prompt_scores": [
+        0.315185546875,
+        0.31591796875,
+        0.31689453125
+      ],
+      "chosen_prompt_idx": 2,
+      "chosen_prompt": "A wide-angle view of a modern airport check-in hall with multiple check-in counters under bright blue overhead signs. Groups of passengers wait in queues, while travelers walk briskly across the shiny, reflective tiled floor pulling luggage. The spacious terminal is illuminated by natural daylight from expansive windows combined with warm ceiling lights, showcasing the clean and orderly interior.",
+      "image_paths": [
+        "runs/city_complex_run1/3/images/3_iter03_sample01.png",
+        "runs/city_complex_run1/3/images/3_iter03_sample02.png",
+        "runs/city_complex_run1/3/images/3_iter03_sample03.png",
+        "runs/city_complex_run1/3/images/3_iter03_sample04.png"
+      ],
+      "image_scores": [
+        0.75390625,
+        0.72509765625,
+        0.70703125,
+        0.7958984375
+      ],
+      "iter_best_idx": 3,
+      "iter_best_score": 0.7958984375,
+      "global_best_score": 0.82568359375,
+      "improved": false
+    },
+    {
+      "iter": 4,
+      "prompts": [
+        "A wide-angle view of a modern airport check-in hall featuring multiple check-in counters with bright blue overhead signs. Groups of passengers wait patiently in orderly lines, while travelers walk across the shiny, reflective tiled floor dragging luggage. The spacious terminal is well-lit by natural daylight from large windows combined with warm ceiling lights, highlighting the clean and organized interior.",
+        "A wide-angle view of a modern airport check-in hall with multiple check-in counters and distinctive bright blue overhead signs. Groups of passengers stand in neat lines, and travelers walk briskly across the shiny, reflective tiled floor pulling luggage. The spacious terminal is illuminated by natural daylight from large windows and warm ceiling lights, emphasizing the clean and organized interior.",
+        "A wide-angle view of a modern airport check-in hall showing multiple check-in counters under bright blue overhead signs. Groups of passengers queue in lines, while travelers walk across the shiny, reflective tiled floor carrying luggage. The spacious terminal is brightly lit by natural daylight streaming through large windows alongside warm ceiling lights, showcasing the clean and organized interior."
+      ],
+      "prompt_scores": [
+        0.315185546875,
+        0.312744140625,
+        0.31640625
+      ],
+      "chosen_prompt_idx": 2,
+      "chosen_prompt": "A wide-angle view of a modern airport check-in hall showing multiple check-in counters under bright blue overhead signs. Groups of passengers queue in lines, while travelers walk across the shiny, reflective tiled floor carrying luggage. The spacious terminal is brightly lit by natural daylight streaming through large windows alongside warm ceiling lights, showcasing the clean and organized interior.",
+      "image_paths": [
+        "runs/city_complex_run1/3/images/3_iter04_sample01.png",
+        "runs/city_complex_run1/3/images/3_iter04_sample02.png",
+        "runs/city_complex_run1/3/images/3_iter04_sample03.png",
+        "runs/city_complex_run1/3/images/3_iter04_sample04.png"
+      ],
+      "image_scores": [
+        0.78271484375,
+        0.81396484375,
+        0.646484375,
+        0.76806640625
+      ],
+      "iter_best_idx": 1,
+      "iter_best_score": 0.81396484375,
+      "global_best_score": 0.82568359375,
+      "improved": false
+    }
+  ]
+}
