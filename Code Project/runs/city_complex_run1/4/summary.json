@@ -1,0 +1,134 @@
+{
+  "image_id": "4",
+  "caption": "A cozy living room with a long yellow sofa in front of a wall of bookshelves, two children and an adult relaxing on the couch, and a happy dog sitting in the middle.",
+  "final_prompt": "A cozy, well-lit living room scene with a long bright yellow sofa facing the viewer, backed by an extensive wall of neatly arranged bookshelves filled with books. Two children and one adult are comfortably seated on the sofa, appearing relaxed and content. In the center of the sofa cushions, a happy dog sits, looking towards the camera. The room is bathed in warm ambient light, creating a homely and inviting atmosphere. The image style is realistic with balanced colors and soft shadows to evoke a sense of warmth and family comfort.",
+  "final_image": "runs/city_complex_run1/4/images/4_iter02_sample02.png",
+  "final_clip_score": 0.84619140625,
+  "iterations_run": 4,
+  "logs": [
+    {
+      "iter": 1,
+      "prompts": [
+        "A warm and cozy living room featuring a long yellow sofa placed against a large wall covered with floor-to-ceiling bookshelves filled with colorful books. Two children and an adult are comfortably seated on the sofa, casually relaxing together. A joyful dog sits happily in the center of the sofa. Soft natural light floods the room through unseen windows, creating a peaceful and inviting atmosphere. The style is realistic with rich textures and warm tones, emphasizing comfort and family bonding.",
+        "Interior of a bright, inviting living room showcasing a spacious yellow couch stretching along a wall lined with tall wooden bookshelves packed with books. On the sofa, two children and an adult lounge comfortably, enjoying a relaxed moment. A happy, medium-sized dog sits contentedly between them. The lighting is soft and warm, highlighting the cozy ambiance. The composition focuses on the sofa and bookshelf backdrop, rendered in a detailed, photorealistic style emphasizing warmth and togetherness.",
+        "A cozy, well-lit living room scene with a long mustard-yellow sofa facing the viewer, backed by an extensive wall of neatly arranged bookshelves filled with books. Two children and one adult are seated on the sofa, appearing relaxed and content. In the middle of the sofa, a cheerful dog sits, looking towards the camera. The room is bathed in warm ambient light, creating a homely and comfortable vibe. The image style is realistic with balanced colors and soft shadows to evoke a sense of warmth and family comfort."
+      ],
+      "prompt_scores": [
+        0.27880859375,
+        0.276123046875,
+        0.28076171875
+      ],
+      "chosen_prompt_idx": 2,
+      "chosen_prompt": "A cozy, well-lit living room scene with a long mustard-yellow sofa facing the viewer, backed by an extensive wall of neatly arranged bookshelves filled with books. Two children and one adult are seated on the sofa, appearing relaxed and content. In the middle of the sofa, a cheerful dog sits, looking towards the camera. The room is bathed in warm ambient light, creating a homely and comfortable vibe. The image style is realistic with balanced colors and soft shadows to evoke a sense of warmth and family comfort.",
+      "image_paths": [
+        "runs/city_complex_run1/4/images/4_iter01_sample01.png",
+        "runs/city_complex_run1/4/images/4_iter01_sample02.png",
+        "runs/city_complex_run1/4/images/4_iter01_sample03.png",
+        "runs/city_complex_run1/4/images/4_iter01_sample04.png"
+      ],
+      "image_scores": [
+        0.76904296875,
+        0.72607421875,
+        0.69482421875,
+        0.76220703125
+      ],
+      "iter_best_idx": 0,
+      "iter_best_score": 0.76904296875,
+      "global_best_score": 0.76904296875,
+      "improved": true
+    },
+    {
+      "iter": 2,
+      "prompts": [
+        "A cozy, well-lit living room scene with a long bright yellow sofa facing the viewer, backed by an extensive wall of neatly arranged bookshelves filled with books. Two children and one adult are comfortably seated on the sofa, appearing relaxed and content. In the center of the sofa cushions, a happy dog sits, looking towards the camera. The room is bathed in warm ambient light, creating a homely and inviting atmosphere. The image style is realistic with balanced colors and soft shadows to evoke a sense of warmth and family comfort.",
+        "A cozy living room with warm lighting featuring a long yellow sofa positioned in front of a large wall of bookshelves filled with books. Two children and an adult are lounging on the sofa, relaxed and smiling. Sitting happily in the middle of the sofa cushions is a cheerful dog looking forward. The scene is rendered realistically with natural colors and gentle shadows, emphasizing a warm and inviting family environment.",
+        "A cozy, warmly lit living room showing a long yellow sofa placed directly in front of a full wall of bookshelves stocked with books. An adult and two children are comfortably relaxing on the sofa, smiling and at ease. A happy dog sits in the middle of the sofa, centered among the cushions, facing the viewer. The image is realistic with soft shadows and balanced warm tones to convey a sense of homely comfort and happiness."
+      ],
+      "prompt_scores": [
+        0.28125,
+        0.2626953125,
+        0.249267578125
+      ],
+      "chosen_prompt_idx": 0,
+      "chosen_prompt": "A cozy, well-lit living room scene with a long bright yellow sofa facing the viewer, backed by an extensive wall of neatly arranged bookshelves filled with books. Two children and one adult are comfortably seated on the sofa, appearing relaxed and content. In the center of the sofa cushions, a happy dog sits, looking towards the camera. The room is bathed in warm ambient light, creating a homely and inviting atmosphere. The image style is realistic with balanced colors and soft shadows to evoke a sense of warmth and family comfort.",
+      "image_paths": [
+        "runs/city_complex_run1/4/images/4_iter02_sample01.png",
+        "runs/city_complex_run1/4/images/4_iter02_sample02.png",
+        "runs/city_complex_run1/4/images/4_iter02_sample03.png",
+        "runs/city_complex_run1/4/images/4_iter02_sample04.png"
+      ],
+      "image_scores": [
+        0.7548828125,
+        0.84619140625,
+        0.82275390625,
+        0.80322265625
+      ],
+      "iter_best_idx": 1,
+      "iter_best_score": 0.84619140625,
+      "global_best_score": 0.84619140625,
+      "improved": true
+    },
+    {
+      "iter": 3,
+      "prompts": [
+        "A cozy, well-lit living room scene featuring a long bright yellow sofa placed in front of a full wall of tall, neatly arranged bookshelves filled with books. Two children and one adult are relaxing comfortably on the sofa, smiling and at ease. A happy dog sits in the middle of the sofa cushions between them, looking toward the viewer. Warm ambient light fills the room, creating a homely and inviting atmosphere with balanced colors and soft shadows that emphasize family comfort.",
+        "A cozy living room with warm lighting, showcasing a long yellow sofa positioned directly in front of a large wall covered entirely by neatly arranged bookshelves. Two children and an adult are relaxing together on the sofa, appearing content and comfortable. A joyful dog sits happily in the center of the sofa cushions. The scene is realistic with soft shadows and rich, balanced colors that enhance the inviting, family-oriented mood.",
+        "A cozy, warmly lit living room featuring a long yellow sofa situated against a wall of bookshelves filled with books. Two children and one adult sit relaxed on the sofa, enjoying the comfortable setting. In the middle of the sofa cushions, a happy dog sits, looking forward. The room\u2019s warm ambient light and soft shadows create a natural, welcoming atmosphere with realistic color tones emphasizing family warmth and comfort."
+      ],
+      "prompt_scores": [
+        0.27392578125,
+        0.27001953125,
+        0.275146484375
+      ],
+      "chosen_prompt_idx": 2,
+      "chosen_prompt": "A cozy, warmly lit living room featuring a long yellow sofa situated against a wall of bookshelves filled with books. Two children and one adult sit relaxed on the sofa, enjoying the comfortable setting. In the middle of the sofa cushions, a happy dog sits, looking forward. The room\u2019s warm ambient light and soft shadows create a natural, welcoming atmosphere with realistic color tones emphasizing family warmth and comfort.",
+      "image_paths": [
+        "runs/city_complex_run1/4/images/4_iter03_sample01.png",
+        "runs/city_complex_run1/4/images/4_iter03_sample02.png",
+        "runs/city_complex_run1/4/images/4_iter03_sample03.png",
+        "runs/city_complex_run1/4/images/4_iter03_sample04.png"
+      ],
+      "image_scores": [
+        0.7607421875,
+        0.6552734375,
+        0.74072265625,
+        0.7021484375
+      ],
+      "iter_best_idx": 0,
+      "iter_best_score": 0.7607421875,
+      "global_best_score": 0.84619140625,
+      "improved": false
+    },
+    {
+      "iter": 4,
+      "prompts": [
+        "A cozy, well-lit living room scene with a long bright yellow sofa in front of an extensive wall of neatly arranged bookshelves filled with books. Two children and one adult are comfortably seated on the sofa, relaxing together. A happy dog sits centered on the sofa cushions between them, looking towards the camera. The room is bathed in warm ambient light, creating a homely and inviting atmosphere with realistic style, balanced colors, and soft shadows to evoke warmth and family comfort.",
+        "A cozy living room with warm lighting, featuring a long bright yellow sofa positioned directly in front of a full wall of bookshelves filled with books. Two children and one adult are sitting and relaxing on the sofa, appearing content. In the middle of the sofa cushions, a happy dog sits facing forward. The realistic image uses balanced colors and soft shadows to highlight the inviting, homely atmosphere and sense of family togetherness.",
+        "A cozy, warmly lit living room showing a long yellow sofa placed in front of a large wall of bookshelves packed with books. Two children and an adult are relaxing comfortably together on the sofa. A happy dog sits in the center of the sofa cushions, looking happily ahead. The scene is realistic with balanced colors and soft shadows, emphasizing a warm, inviting, and family-friendly atmosphere."
+      ],
+      "prompt_scores": [
+        0.276123046875,
+        0.26708984375,
+        0.26171875
+      ],
+      "chosen_prompt_idx": 0,
+      "chosen_prompt": "A cozy, well-lit living room scene with a long bright yellow sofa in front of an extensive wall of neatly arranged bookshelves filled with books. Two children and one adult are comfortably seated on the sofa, relaxing together. A happy dog sits centered on the sofa cushions between them, looking towards the camera. The room is bathed in warm ambient light, creating a homely and inviting atmosphere with realistic style, balanced colors, and soft shadows to evoke warmth and family comfort.",
+      "image_paths": [
+        "runs/city_complex_run1/4/images/4_iter04_sample01.png",
+        "runs/city_complex_run1/4/images/4_iter04_sample02.png",
+        "runs/city_complex_run1/4/images/4_iter04_sample03.png",
+        "runs/city_complex_run1/4/images/4_iter04_sample04.png"
+      ],
+      "image_scores": [
+        0.74365234375,
+        0.75634765625,
+        0.74853515625,
+        0.77099609375
+      ],
+      "iter_best_idx": 3,
+      "iter_best_score": 0.77099609375,
+      "global_best_score": 0.84619140625,
+      "improved": false
+    }
+  ]
+}
